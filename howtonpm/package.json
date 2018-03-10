@@ -1,0 +1,20 @@
+{
+  "name": "@deepsky-io/howtonpm",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dougallison/nodeschool.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dougallison/nodeschool/issues"
+  },
+  "homepage": "https://github.com/dougallison/nodeschool#readme",
+  "description": "The nodeschool.io how-to-npm package",
+  "dependencies": {}
+}
